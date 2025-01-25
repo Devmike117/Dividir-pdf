@@ -26,11 +26,14 @@ No es obligatorio pero puedes realizarlo:
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=1101291397&token=-pop0PGF)
 
 ---
-## Instalación
+## Descargar ejecutable .exe
+
+[Click para descargar](https://github.com/Devmike117/Dividir-pdf/releases/download/ejecutable/Gestion.de.pdf.exe)
+
+## Instalación código
 
 Para instalar esta herramienta, simplemente clona el repositorio e instala las dependencias requeridas:
 
 ```bash
-git clone https://github.com/tuusuario/pdf-splitter-image-converter.git
-cd pdf-splitter-image-converter
-pip install -r requirements.txt
+git clone https://github.com/Devmike117/Dividir-pdf.git
+
