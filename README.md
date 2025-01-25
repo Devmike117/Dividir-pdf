@@ -22,7 +22,7 @@ Esta herramienta está diseñada para simplificar el proceso de gestión y conve
 No es obligatorio pero puedes realizarlo:
 ##
 [![Crypto donate](https://img.shields.io/badge/Crypto-donate-f7931a.svg?logo=bitcoin)](https://commerce.coinbase.com/checkout/3cf16974-83de-45f5-ad8f-b257e22386c7)
-[![PayPal.me donate](https://img.shields.io/badge/PayPal.me-donate-00457c.svg?logo=paypal)](https://paypal.me/devmike117?country.x=MX&locale.x=es_XC)
+[![PayPal donate](https://img.shields.io/badge/PayPal.me-donate-00457c.svg?logo=paypal)](https://paypal.me/devmike117?country.x=MX&locale.x=es_XC)
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=1101291397&token=-pop0PGF)
 
 ---
