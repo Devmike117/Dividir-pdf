@@ -26,6 +26,12 @@ No es obligatorio pero puedes realizarlo:
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=1101291397&token=-pop0PGF)
 
 ---
+### Imagen ejecutable
+
+<p align="left">
+  <img src="example.png" alt="Mobile web: contacts" width=400 /> 
+</p>
+
 ## Descargar ejecutable .exe
 
 [Click para descargar](https://github.com/Devmike117/Dividir-pdf/releases/download/ejecutable/Gestion.de.pdf.exe)
